@@ -4,4 +4,4 @@
 
 original design        |  Flutter design
 :-------------------------:|:-------------------------:
-![original-design](./mockup/template.png)  |   ![](./mockup/flutter_clone.png)
+![original-design](./mockup/template.png)  |   ![](./mockup/flutter_clone1.png)
