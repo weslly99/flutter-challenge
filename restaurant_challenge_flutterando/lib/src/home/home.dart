@@ -67,7 +67,7 @@ class Home extends StatelessWidget {
   _menuItem(String img, String txt, bool isActive) {
     return Column(
       children: <Widget>[
-        Image.asset(img, color: _activeColor(isActive)),
+        Image.asset(img, color: _activeColor(isActive),height: 32,),
         SizedBox(
           height: 10,
         ),
