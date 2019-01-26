@@ -4,5 +4,5 @@
 
 original design        |  Flutter design
 :-------------------------:|:-------------------------:
-![original-design](./mockup/template.png)  |   ![](./mockup/restaurant_challenge.png)
+![original-design](./mockup/template.jpg)  |   ![](./mockup/restaurant_challenge.png)
 
