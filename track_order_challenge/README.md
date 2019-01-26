@@ -1,7 +1,7 @@
 # track_order_challenge
 
 # to do
-[] animation passing status
+- [] animation passing status
 
 # Mockup
 
