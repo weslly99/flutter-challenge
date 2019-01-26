@@ -7,5 +7,5 @@
 
 original design        |  Flutter design
 :-------------------------:|:-------------------------:
-![original-design](./mockup/template.png)  |   ![](./mockup/track_order_challenge.png)
+![original-design](./mockup/template.jpg)  |   ![](./mockup/track_order_challenge.png)
 
