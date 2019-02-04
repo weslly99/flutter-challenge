@@ -1,0 +1,4 @@
+#Tue Dec 11 22:32:13 BRT 2018
+base.0=/home/weslly/workspace/clone_tinder/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

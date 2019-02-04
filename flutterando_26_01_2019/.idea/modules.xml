@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutterando_26_01_2019.iml" filepath="$PROJECT_DIR$/flutterando_26_01_2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutterando_26_01_2019_android.iml" filepath="$PROJECT_DIR$/android/flutterando_26_01_2019_android.iml" />
+    </modules>
+  </component>
+</project>

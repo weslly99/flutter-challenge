@@ -1,0 +1,4 @@
+#Sat Jan 26 17:20:26 BRT 2019
+base.0=/home/weslly/workspace/owner/flutter-challenge/clone_olx/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
